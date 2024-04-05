@@ -9,6 +9,7 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-source = "anddea/revanced-patches"
+patches-version = "v2.224.0-dev.1"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "ReVanced-Extended"
 included-patches = "'Hide player buttons background' 'MaterialYou' 'Spoof player parameters'"
@@ -17,6 +18,7 @@ excluded-patches = "'Tuck away preferences'"
 [Music]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 patches-source = "anddea/revanced-patches"
+patches-version = "v2.224.0-dev.1"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "ReVanced-Extended"
 arch = "arm64-v8a"
